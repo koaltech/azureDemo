@@ -26,6 +26,8 @@ IF NOT DEFINED DEPLOYMENT_SOURCE (
   SET DEPLOYMENT_SOURCE=%~dp0%.
 )
 
+SET DEPLOYMENT_TARGET=D:\home\site\wwwroot\webapps\azureHelloWorld
+ 
 IF NOT DEFINED DEPLOYMENT_TARGET (
   SET DEPLOYMENT_TARGET=%ARTIFACTS%\wwwroot\webapps\azureHelloWorld
 )
