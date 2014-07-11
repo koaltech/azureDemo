@@ -11,5 +11,8 @@
 
 
 The current date and time is <%= new java.util.Date() %>
+<br>
+
+We are in the MTC showing the integration between Eclipse, GitHub, and Azure.
 </body>
 </html>
