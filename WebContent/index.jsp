@@ -9,8 +9,7 @@
 <body>
 <h2>Hello from Microsoft Azure!</h2>
 
-
-The current date and time is <%= new java.util.Date() %>
+The current date and time is <%= new java.util.Date() %> and the weather is a hot and muggy 95 degrees
 <br>
 <br>
 We are in the MTC showing the integration between Eclipse, GitHub, and Azure.
